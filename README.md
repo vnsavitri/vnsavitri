@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vnsavitri
-- 👀 I’m interested in creative AI and voice-based experience design
-- 🌱 I’m currently learning how to create game world and write the narrative in collaboration with creative AI like MidJourney and Stable Diffussion
-- 💞️ I’m looking to collaborate on building a different kind of videogame using AI
+- 👀 I’m interested in creative AI and designing for Human-AI interaction 
+- 🌱 I’m currently developing new kind of game with various AI Agents as my cofounders
+- 💞️ I’m always keen to collaborate on building a different kind of videogame using AI
 - 📫 DM me on Discord @VividSydney#2506
 
 <!---
