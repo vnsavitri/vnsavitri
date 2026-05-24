@@ -1,15 +1,15 @@
 ## Hi there, I'm Vivid 👋
 
-Principal AI Product Manager · Startup Founder · Sydney, Australia 🇦🇺
+AI Product & Venture Lead · Startup Founder · Sydney, Australia 🇦🇺
 
-I sit at the intersection of frontier AI, product strategy, and human-centred design. My background spans HCI research (Stanford), two startup exits, and 12 countries — now focused on building AI systems that actually work for people.
+I play at the intersection of frontier AI, product strategy, and human-centred design. My background spans HCI and design, two startup exits, and 12 countries — now focused on building AI systems that actually work for people.
 
 ---
 
 ## 🧠 What I Do
 
 - **AI Product Strategy** — Defining product vision and roadmap for AI-native systems; from concept to deployment
-- **Human-AI Interaction** — Designing experiences where AI augments human decision-making (built on Stanford HCI foundations)
+- **Human-AI Interaction** — Designing experiences where AI augments human decision-making (built on Stanford HCI principles)
 - **Agentic AI Systems** — Exploring multi-agent architectures, LLM orchestration, and AI-driven gameplay
 - **Data Science & ML** — Bridging product thinking with model evaluation, feature engineering, and AI pipeline design
 - **Startup Building** — Two successful exits in video games (Shanghai & Berlin); currently building with AI agents as co-founders
