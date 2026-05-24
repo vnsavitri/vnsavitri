@@ -50,12 +50,13 @@ I sit at the intersection of frontier AI, product strategy, and human-centred de
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
+---
 ## 🔭 Currently Building
 
 - AI-native video game development with agentic workflows and multi-agent collaboration
-- Prototyping with Hermes Agent and isolated sub-agents for parallel task execution
-- Running hybrid model workflows across local models and OpenRouter-hosted models, including Qwen 3.x variants
-- Building AI evaluation frameworks for product decision-making
+  - Prototyping with Hermes Agent and isolated sub-agents for parallel task execution
+  - Running hybrid model workflows across local models and OpenRouter-hosted models, including Qwen 3.x variants
+  - Building AI evaluation frameworks for product decision-making
 - Learning deeper Python for AI/ML, LLM fine-tuning, and agent orchestration patterns
 ---
 
@@ -66,15 +67,6 @@ I sit at the intersection of frontier AI, product strategy, and human-centred de
 - 🎓 MBA — Steinbeis Hochschule, Berlin *(Thesis: AI-Driven Application for Experience Design)*
 - 🌐 Lived and worked in 12 countries across 4 continents
 - 🗣️ English · French · Mandarin
-
----
-
-## 🔭 Currently Building
-
-- Agentic AI game with multi-agent collaboration at its core
-- AI evaluation frameworks for product decision-making
-- Prototyping with open-source agent frameworks: Hermes, OpenRouter routing layers, AI coding agents
-- Learning: Python for AI/ML · LLM fine-tuning · Agent orchestration patterns
 
 ---
 
