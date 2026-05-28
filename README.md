@@ -144,7 +144,6 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 ## 🌏 Background
 
-- 🎓 HCI & Design — Stanford University
 - 🎓 AI Product Management — Duke University (Pratt School of Engineering)
 - 🎓 MBA — Steinbeis Hochschule, Berlin *(Thesis: AI-Driven Application for Experience Design)*
 - 🌐 Lived and worked in 12 countries across 4 continents
