@@ -33,6 +33,19 @@ A framework for provenance-aware multimodal memory and orchestration in high-sta
 
 ---
 
+### [dam-butler-mcp](https://github.com/vnsavitri/dam-butler-mcp) — Breville's first MCP tool, in daily production use
+*production · enterprise*
+
+GTM teams across APAC, North America, and EMEA needed daily access to 235K+ brand assets in Brandfolder — but retrieving the right file meant knowing the exact folder taxonomy, which most non-technical users didn't. Built Breville's first MCP-based internal tool: a custom GPT connected to the Brandfolder API via an intent parser and clarification loop.
+
+- Natural language query → intent parser → structured Brandfolder API call
+- Clarification loop resolves ambiguous inputs before the API fires
+- Prototyped Sep 2025; shipped to production, in daily workflows across APAC, North America, and EMEA — [demo video](https://www.youtube.com/watch?v=UOeHNyh5A7Y)
+
+`MCP` · `Brandfolder API` · `ChatGPT Enterprise` · `Vercel`
+
+---
+
 ### [vivid-alpaca](https://github.com/vnsavitri/vivid-alpaca) — multi-agent trading with execution guardrails
 *active · safety*
 
@@ -59,16 +72,15 @@ Local MCP project that turns espresso shot metrics into a personalized cosmic re
 
 ---
 
-### [dam-butler-mcp](https://github.com/vnsavitri/dam-butler-mcp) — MCP adopted into Breville production
-*production · enterprise*
+### [sourdough-intelligence](https://github.com/vnsavitri/sourdough-intelligence) — pre-LLM data science, live product
+*live · [vividcrumb.netlify.app](https://vividcrumb.netlify.app)*
 
-MCP server giving ChatGPT Enterprise and Claude Desktop natural-language access to Breville's Vault DAM. Demoed to product leadership Sep 2025; architecture adopted and taken to production by Breville engineering.
+Started in 2018 — before LLMs. Built a two-stage model to find the sourdough recipe with the highest first-time success rate: multiple linear regression across recipe variables + IBM Watson NLP sentiment analysis on 207 recipes and their YouTube comment threads.
 
-- Intent parser → clarification loop → structured DAM API query
-- Removed a recurring "ask the person who knows the taxonomy" bottleneck
-- [Demo video](https://www.youtube.com/watch?v=UOeHNyh5A7Y)
+- Top-3 shortlist generated → picked one → worked first try
+- Now a live scheduling app: bake-time wizard, baker's percentage formula gen, temperature-aware bulk fermentation, printable plans
 
-`MCP` · `Vercel` · `ChatGPT Enterprise`
+`R` · `IBM Watson NLP` · `regression`
 
 ---
 
@@ -82,18 +94,6 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 - Four hand-tuned output formats, RevenueCat-gated Pro tier
 
 `Next.js 14` · `Anthropic API` · `Fraunces`
-
----
-
-### [sourdough-intelligence](https://github.com/vnsavitri/sourdough-intelligence) — pre-LLM data science, live product
-*live · [vividcrumb.netlify.app](https://vividcrumb.netlify.app)*
-
-Started in 2018 — before LLMs. Built a two-stage model to find the sourdough recipe with the highest first-time success rate: multiple linear regression across recipe variables + IBM Watson NLP sentiment analysis on 207 recipes and their YouTube comment threads.
-
-- Top-3 shortlist generated → picked one → worked first try
-- Now a live scheduling app: bake-time wizard, baker's percentage formula gen, temperature-aware bulk fermentation, printable plans
-
-`R` · `IBM Watson NLP` · `regression`
 
 ---
 
