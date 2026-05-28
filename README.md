@@ -15,6 +15,88 @@ I play at the intersection of frontier AI, product strategy, and human-centred d
 - **Startup Building** — Two successful exits in video games (Shanghai & Berlin); currently building with AI agents as co-founders
 
 ---
+
+## ✨ Featured Work
+
+A curated slice of what I'm building. Full case studies and writing at **[vnsavitri.github.io](https://vnsavitri.github.io)**.
+
+### [vai_sante_os](https://github.com/vnsavitri/vai_sante_os) — privacy-first multimodal memory
+*active · research*
+
+A framework for provenance-aware multimodal memory and orchestration in high-stakes AI workflows (health, legal, policy, safety).
+
+- Provenance-aware retrieval returns content **and** chain of custody
+- Human-in-the-loop review gates for sensitive decisions
+- Treats time and evidence quality as first-class, not metadata
+
+`Python` · `Mermaid` · `evaluation harness`
+
+---
+
+### [vivid-alpaca](https://github.com/vnsavitri/vivid-alpaca) — multi-agent trading with execution guardrails
+*active · safety*
+
+Paper-first multi-agent AI trading lab built on the AlpacaTradingAgent lineage. Execution-layer guardrails sit between agent recommendations and broker order submission.
+
+- Configurable agent mindsets (capital preservation → paper-aggressive training)
+- Goal-aware workflows with target return, time horizon, max drawdown
+- Live trading gated behind manual approval, journaling, cooldown, replay
+
+`Python` · `Dash` · `Alpaca API` · `multi-agent`
+
+---
+
+### [espresso-horoscope-mcp](https://github.com/vnsavitri/espresso-horoscope-mcp) — local-first MCP, OpenAI hackathon
+*shipped · hackathon · ⭐ 3*
+
+Local MCP project that turns espresso shot metrics into a personalized cosmic reading via GPT-OSS through LM Studio. Built for the OpenAI Open Model Hackathon (Best Local Agent category).
+
+- 100% offline — no cloud inference
+- Structured sensor data → strict tool/prompt boundary → user artifact
+- Six-week deadline, [3-min demo video](https://youtu.be/hHNMkw1NXDE) shipped
+
+`Python` · `Next.js 15` · `LM Studio` · `MCP`
+
+---
+
+### [dam-butler-mcp](https://github.com/vnsavitri/dam-butler-mcp) — MCP adopted into Breville production
+*production · enterprise*
+
+MCP server giving ChatGPT Enterprise and Claude Desktop natural-language access to Breville's Vault DAM. Demoed to product leadership Sep 2025; architecture adopted and taken to production by Breville engineering.
+
+- Intent parser → clarification loop → structured DAM API query
+- Removed a recurring "ask the person who knows the taxonomy" bottleneck
+- [Demo video](https://www.youtube.com/watch?v=UOeHNyh5A7Y)
+
+`MCP` · `Vercel` · `ChatGPT Enterprise`
+
+---
+
+### [Almost](https://github.com/vnsavitri/Almost) — the life you didn't quite live
+*shipped · product*
+
+Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career history. You pick one. It renders the alternate you as a LinkedIn Ghost, Wiki Stub, Museum Plaque, or Tarot Card.
+
+- Built on Anthropic Claude API (`claude-sonnet-4`)
+- Claude native document support — no PDF library plumbing
+- Four hand-tuned output formats, RevenueCat-gated Pro tier
+
+`Next.js 14` · `Anthropic API` · `Fraunces`
+
+---
+
+### [sourdough-intelligence](https://github.com/vnsavitri/sourdough-intelligence) — pre-LLM data science, live product
+*live · [vividcrumb.netlify.app](https://vividcrumb.netlify.app)*
+
+Started in 2018 — before LLMs. Built a two-stage model to find the sourdough recipe with the highest first-time success rate: multiple linear regression across recipe variables + IBM Watson NLP sentiment analysis on 207 recipes and their YouTube comment threads.
+
+- Top-3 shortlist generated → picked one → worked first try
+- Now a live scheduling app: bake-time wizard, baker's percentage formula gen, temperature-aware bulk fermentation, printable plans
+
+`R` · `IBM Watson NLP` · `regression`
+
+---
+
 ## 🚀 Tech Stack
 
 ### Foundation Models & Routing
