@@ -110,41 +110,29 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 ---
 
-## 🚀 Tech Stack
+## How I build
 
-### Foundation Models & Routing
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openrouter&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+I use AI to move faster, then put a working structure around it: a real problem, clear context, tested outputs and someone accountable for the result.
 
-### Agentic Systems & Orchestration
-![Paperclip](https://img.shields.io/badge/Paperclip-111111?style=flat-square&logo=github&logoColor=white)
-![Hermes Agent](https://img.shields.io/badge/Hermes%20Agent-6B21A8?style=flat-square&logo=github&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-0F172A?style=flat-square&logo=github&logoColor=white)
+### Open-source and local AI
 
-### AI Coding Agents & Prototyping
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-181717?style=flat-square&logo=github&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+I work across open and local models alongside hosted options, choosing based on the job, data sensitivity, cost and how well a model actually performs.
 
-### Applied ML, Data & Evaluation
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### Agent harnesses and graph engineering
 
-### Product, Design & Delivery
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+I build the harness around agents: task routing, shared state, memory, evaluation and guardrails. That is the work that turns a promising prototype into a real application people can rely on.
 
+### Human-AI product design
+
+I design AI-assisted workflows around the person using them, with a clear job to do, plain interfaces and sensible points for review.
+
+### Evaluation, evidence and safety
+
+I test system behaviour, keep provenance where it matters, and put review gates around decisions with real consequences.
+
+### Product direction and delivery
+
+I take a product from problem framing and prototype to a working application, with enough technical depth to make good calls along the way.
 ---
 ## 🔭 Currently Building
 
