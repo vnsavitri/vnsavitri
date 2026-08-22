@@ -112,7 +112,7 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 ## 👷🏽‍♀️ How I build
 
-I use AI to move faster. The structure around it is what makes the result worth trusting.
+I use AI where it makes sense. Figuring out whether it belongs there is part of the work.
 
 ### Open-source and local AI
 
