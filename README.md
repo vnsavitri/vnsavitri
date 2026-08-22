@@ -33,7 +33,7 @@ A framework for provenance-aware multimodal memory and orchestration in high-sta
 
 ---
 
-### [vivid-clean](https://github.com/vnsavitri/vivid-clean): local document hygiene for AI-assisted work
+### [vivid-clean](https://github.com/vnsavitri/vivid-clean) — local document hygiene for AI-assisted work
 *open source · privacy*
 
 A local-first tool for removing deterministic provenance markers and common AI-writing tells from documents, images and text. Built for people who use AI as an accessibility or writing aid and want control over the metadata attached to their work.
