@@ -122,6 +122,7 @@ I use AI to move faster. The structure around it is what makes the result worth 
 ---
 ## 🔭 Currently Building
 
+- AI-guided financial literacy app for next-gen Indonesians *(early beta)*
 - AI-native video game development with agentic workflows and multi-agent collaboration
   - Prototyping with Hermes Agent and isolated sub-agents for parallel task execution
   - Running hybrid model workflows across local models and OpenRouter-hosted models, including Qwen 3.x variants
