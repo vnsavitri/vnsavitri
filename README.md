@@ -114,13 +114,25 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 I use AI to move faster. The structure around it is what makes the result worth trusting.
 
-- **Choose models for the job.** I work across open, local and hosted models, weighing privacy, cost, capability and the work at hand.
-- **Build the application harness.** I design agent loops and graphs with clear state, scoped delegation, useful hand-offs, memory that stays useful, evaluation and guardrails. That is what carries a promising prototype into a real application.
-- **Keep people in the loop.** I turn messy real-world work into AI products with a clear job, plain interfaces and sensible points for review.
-- **Test what matters.** I test system behaviour, keep provenance where it matters, and put review gates around decisions with real consequences.
-- **Ship the whole thing.** I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+### 01. Open-source and local AI
 
-`Open-source LLMs` · `local inference` · `agent workflows` · `graph engineering` · `Python` · `APIs` · `evaluation`
+I work across open and local models, choosing for privacy, cost, capability and the job at hand.
+
+### 02. Agent loops and graph engineering
+
+I build the harness around agent workflows, with clear state, scoped delegation, useful hand-offs and memory that does not turn into a junk drawer.
+
+### 03. Human-AI product design
+
+I turn messy real-world work into AI products people can understand, trust and use.
+
+### 04. Evaluation, evidence and safety
+
+I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
+
+### 05. Product direction and delivery
+
+I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
 ---
 ## 🔭 Currently Building
 
