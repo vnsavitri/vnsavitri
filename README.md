@@ -33,6 +33,19 @@ A framework for provenance-aware multimodal memory and orchestration in high-sta
 
 ---
 
+### [vivid-clean](https://github.com/vnsavitri/vivid-clean): local document hygiene for AI-assisted work
+*open source · privacy*
+
+A local-first tool for removing deterministic provenance markers and common AI-writing tells from documents, images and text. Built for people who use AI as an accessibility or writing aid and want control over the metadata attached to their work.
+
+- Processes files locally and creates a cleaned copy rather than overwriting the original
+- Supports Word, PowerPoint, PDF, plain text, Markdown and common image formats
+- Checks for Unicode markers, document properties, C2PA data and EXIF/XMP metadata
+
+`Bash` · `Python` · `local-first` · `document hygiene`
+
+---
+
 ### [dam-butler-mcp](https://github.com/vnsavitri/dam-butler-mcp) — Breville's first MCP tool, in daily production use
 *production · enterprise*
 
