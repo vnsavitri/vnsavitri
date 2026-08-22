@@ -110,29 +110,15 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 ---
 
-## How I build
+## 👷🏽‍♀️ How I build
 
-I use AI to move faster, then put enough structure around it to make the result worth trusting: a real problem, clear context, tested outputs and someone accountable for the result.
+I use AI to move faster. The structure around it is what makes the result worth trusting.
 
-### Open-source and local AI
-
-I work across open, local and hosted models, choosing for privacy, cost, capability and the job at hand.
-
-### Agent harnesses, loops and graph engineering
-
-I build the harness around agent workflows: clear state, scoped delegation, useful hand-offs, memory that does not turn into a junk drawer, evaluation and guardrails. It is the work that turns a promising prototype into an application people can rely on.
-
-### Human-AI product design
-
-I turn messy real-world work into AI products people can understand, trust and use. The workflow has a clear job to do and sensible points for review.
-
-### Evaluation, evidence and safety
-
-I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
-
-### Product direction and delivery
-
-I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+- **Choose models for the job.** I work across open, local and hosted models, weighing privacy, cost, capability and the work at hand.
+- **Build the application harness.** I design agent loops and graphs with clear state, scoped delegation, useful hand-offs, memory that stays useful, evaluation and guardrails. That is what carries a promising prototype into a real application.
+- **Keep people in the loop.** I turn messy real-world work into AI products with a clear job, plain interfaces and sensible points for review.
+- **Test what matters.** I test system behaviour, keep provenance where it matters, and put review gates around decisions with real consequences.
+- **Ship the whole thing.** I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
 
 `Open-source LLMs` · `local inference` · `agent workflows` · `graph engineering` · `Python` · `APIs` · `evaluation`
 ---
