@@ -114,25 +114,15 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 I use AI where it makes sense, part of the fun is figuring out whether AI would be helpful or slowing me down; especially if it produces slop. Ain't nobody got time to babysit dumb AI agents!
 
-- **Open-source and local AI**
-  
-  My preference is to always try to use open and local models, choosing for privacy, cost, capability and the job at hand... if possible. Whereas at work, I kinda stuck with closed models from OpenAI or Anthropic (unfortunately). 
+- **Open-source and local AI** — My preference is to always try to use open and local models, choosing for privacy, cost, capability and the job at hand... if possible. Whereas at work, I kinda stuck with closed models from OpenAI or Anthropic (unfortunately). 
 
-- **Agent loops and graph engineering**
+- **Agent loops and graph engineering** - I build the harness around agent workflows, with clear state, scoped delegation, useful hand-offs and memory that does not turn into a junk drawer.
 
-  I build the harness around agent workflows, with clear state, scoped delegation, useful hand-offs and memory that does not turn into a junk drawer.
+- **Human-AI product design** — I try to turn messy real-world work into AI products people can understand, trust and use.
 
-- **Human-AI product design**
+- **Evaluation, evidence and safety** — I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
 
-  I try to turn messy real-world work into AI products people can understand, trust and use.
-
-- **Evaluation, evidence and safety**
-
-  I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
-
-- **Product direction and delivery**
-
-  Moves from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+- **Product direction and delivery** — Moves from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
 
 ---
 ## 🔭 Currently Building
