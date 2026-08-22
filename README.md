@@ -112,27 +112,29 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 ## How I build
 
-I use AI to move faster, then put a working structure around it: a real problem, clear context, tested outputs and someone accountable for the result.
+I use AI to move faster, then put enough structure around it to make the result worth trusting: a real problem, clear context, tested outputs and someone accountable for the result.
 
 ### Open-source and local AI
 
-I work across open and local models alongside hosted options, choosing based on the job, data sensitivity, cost and how well a model actually performs.
+I work across open, local and hosted models, choosing for privacy, cost, capability and the job at hand.
 
-### Agent harnesses and graph engineering
+### Agent harnesses, loops and graph engineering
 
-I build the harness around agents: task routing, shared state, memory, evaluation and guardrails. That is the work that turns a promising prototype into a real application people can rely on.
+I build the harness around agent workflows: clear state, scoped delegation, useful hand-offs, memory that does not turn into a junk drawer, evaluation and guardrails. It is the work that turns a promising prototype into an application people can rely on.
 
 ### Human-AI product design
 
-I design AI-assisted workflows around the person using them, with a clear job to do, plain interfaces and sensible points for review.
+I turn messy real-world work into AI products people can understand, trust and use. The workflow has a clear job to do and sensible points for review.
 
 ### Evaluation, evidence and safety
 
-I test system behaviour, keep provenance where it matters, and put review gates around decisions with real consequences.
+I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
 
 ### Product direction and delivery
 
-I take a product from problem framing and prototype to a working application, with enough technical depth to make good calls along the way.
+I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+
+`Open-source LLMs` · `local inference` · `agent workflows` · `graph engineering` · `Python` · `APIs` · `evaluation`
 ---
 ## 🔭 Currently Building
 
