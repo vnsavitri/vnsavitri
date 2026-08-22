@@ -133,9 +133,9 @@ I use AI to move faster. The structure around it is what makes the result worth 
 
 ## 🌏 Background
 
-- 👩🏻‍🎓 Bachelor of Arts in Science, Technology, and Society, Stanford University, School of Humanities & Sciences (human-computer interaction focus)
 - 🎓 AI Product Management — Duke University (Pratt School of Engineering)
 - 🎓 MBA — Steinbeis Hochschule, Berlin *(Thesis: AI-Driven Application for Experience Design)*
+- 👩🏻‍🎓 Bachelor of Arts in Science, Technology, and Society, Stanford University, School of Humanities & Sciences (human-computer interaction focus)
 - 🌐 Lived and worked in 12 countries across 4 continents
 - 🗣️ English · French · Mandarin
 
