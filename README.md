@@ -114,25 +114,26 @@ Upload a LinkedIn PDF. Almost finds 3–5 real fork points in your career histor
 
 I use AI where it makes sense. Figuring out whether it belongs there is part of the work.
 
-### Open-source and local AI
+- **Open-source and local AI**
 
-I work across open and local models, choosing for privacy, cost, capability and the job at hand.
+  I work across open and local models, choosing for privacy, cost, capability and the job at hand.
 
-### Agent loops and graph engineering
+- **Agent loops and graph engineering**
 
-I build the harness around agent workflows, with clear state, scoped delegation, useful hand-offs and memory that does not turn into a junk drawer.
+  I build the harness around agent workflows, with clear state, scoped delegation, useful hand-offs and memory that does not turn into a junk drawer.
 
-### Human-AI product design
+- **Human-AI product design**
 
-I turn messy real-world work into AI products people can understand, trust and use.
+  I turn messy real-world work into AI products people can understand, trust and use.
 
-### Evaluation, evidence and safety
+- **Evaluation, evidence and safety**
 
-I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
+  I test what a system does, keep provenance where it matters, and put review gates around decisions with real consequences.
 
-### Product direction and delivery
+- **Product direction and delivery**
 
-I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+  I move from problem framing and prototype to a working product, with enough technical depth to make good calls along the way.
+
 ---
 ## 🔭 Currently Building
 
