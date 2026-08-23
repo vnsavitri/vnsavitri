@@ -16,7 +16,7 @@ I play at the intersection of frontier AI, product strategy, and human-centred d
 
 ---
 
-## ✨ Featured Work
+## ✨ Featured Works
 
 ### [vivid-clean](https://github.com/vnsavitri/vivid-clean) — local document hygiene for AI-assisted work
 *open source · privacy*
