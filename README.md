@@ -16,6 +16,8 @@ I play at the intersection of frontier AI, product strategy, and human-centred d
 
 ---
 
+## ✨ Featured Work
+
 ### [vivid-clean](https://github.com/vnsavitri/vivid-clean) — local document hygiene for AI-assisted work
 *open source · privacy*
 
@@ -28,8 +30,6 @@ A local-first tool for removing deterministic provenance markers and common AI-w
 `Bash` · `Python` · `local-first` · `document hygiene`
 
 ---
-
-## ✨ Featured Work
 
 A curated slice of what I'm building. Full case studies and writing at **[vnsavitri.github.io](https://vnsavitri.github.io)**.
 
